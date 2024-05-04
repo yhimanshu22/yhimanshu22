@@ -10,13 +10,13 @@
   <img height=200 align="center" src='https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=radical' />
 </a>
 <a href="https://github.com/yhimanshu22/github-readme-stats">
-  <img height=200 width=400  align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=donut-vertical' />
+  <img height=200   align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=donut-vertical' />
 </a>
 
 
 
 
-I'm studying in IIT KANPUR from 2022 to 2026 doing Btech in Civil Engineering.i had keen interest in  Machine Learning, Deep Learning,Natural Language Processing.
+I'm studying in IIT KANPUR from 2022 to 2026 doing Btech in Civil Engineering.I had keen interest in  Machine Learning, Deep Learning,Natural Language Processing.
 
 
 
