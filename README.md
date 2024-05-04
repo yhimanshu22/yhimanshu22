@@ -6,6 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yhimanshu22-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yhimanshu22)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yhimanshu22)](https://github.com/yhimanshu22/github-readme-stats)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=radical)
 
 
 
