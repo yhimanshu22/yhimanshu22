@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>Hi, I'm Himanshu</h1>
-</div>
+<samp>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi I'm Himanshu Yadav </h1>
+</samp>
 
 <div align="center">
   <a href="https://github.com/yhimanshu22/github-readme-stats">
@@ -61,6 +61,7 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22"><img title="Daily Contribution Frequency of Last 31 Days" alt="Himanshu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
