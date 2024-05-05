@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>Hi, I'm Himanshu</h1>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://github.com/yhimanshu22/github-readme-stats">
     <img src="https://img.shields.io/badge/GitHub-yhimanshu22-blue?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
@@ -14,10 +14,6 @@
   </a>
 </div>
 
-  <a href="https://github.com/yhimanshu22/github-readme-stats" style="flex: 1;">
-    <img height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=compact' />
-  </a>
-</div>
 
 
 ## Language and Tools 
