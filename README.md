@@ -14,18 +14,15 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/yhimanshu22/github-readme-stats" style="flex: 1; margin-right: 10px;">
-    <img height=200 src='https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=radical' />
-  </a>
   <a href="https://github.com/yhimanshu22/github-readme-stats" style="flex: 1;">
     <img height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=compact' />
   </a>
 </div>
 
 
-
-
+## Language and Tools 
+<div>
+  
 ### Best frameworks and main libraries for Python3:
 
 | Pytorch | Numpy | Pandas | Scikit-learn | Matplotlib | OpenCV |
@@ -37,6 +34,29 @@
 | Kaggle | Jupyter | Conda |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> |
+
+### Environments, Testing, Other:
+
+| Git | NodeJS | Docker | Postman |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devico
+</div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=yhimanshu22&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
 
 
 
