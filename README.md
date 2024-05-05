@@ -8,12 +8,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yhimanshu22-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yhimanshu22)
 
 
-<a href="https://github.com/yhimanshu22/github-readme-stats">
-  <img height=200 align="center" src='https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=radical' />
-</a>
-<a href="https://github.com/yhimanshu22/github-readme-stats">
-  <img height=200   align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=compact' />
-</a>
+<div style="display: flex;">
+  <a href="https://github.com/yhimanshu22/github-readme-stats" style="flex: 1; margin-right: 10px;">
+    <img height=200 src='https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=radical' />
+  </a>
+  <a href="https://github.com/yhimanshu22/github-readme-stats" style="flex: 1;">
+    <img height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=compact' />
+  </a>
+</div>
 
 
 
@@ -28,7 +30,8 @@
 
 | Google Colab | Kaggle | Jupyter | Conda |
 |----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original-wordmark.svg" title="Google Colab" alt="Google Colab" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> |
+
 
 
 
