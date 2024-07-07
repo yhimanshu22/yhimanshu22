@@ -48,6 +48,13 @@
 
 ---
 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/yhimanshu22/count.svg?align=center)
+
+
+---
+
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=yhimanshu22&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
