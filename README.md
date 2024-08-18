@@ -1,6 +1,6 @@
-<samp>
-    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi I'm Himanshu Yadav </h1>
-</samp>
+
+<!--
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi I'm Himanshu Yadav</h1>
 
 <div align="center">
   <a href="https://github.com/yhimanshu22/github-readme-stats">
@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Medium-yhimanshu22-blue?style=flat-square&logo=medium" alt="Medium Badge">
   </a>
 </div>
+
 <div align="center">
   
 ### Languages:
@@ -50,13 +51,11 @@
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/yhimanshu22/count.svg?align=center)
 
-
 ---
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=yhimanshu22&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
 
 ---
 
@@ -64,6 +63,6 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
- 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22"><img title="Daily Contribution Frequency of Last 31 Days" alt="Himanshu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22"><img title="Daily Contribution Frequency of Last 31 Days" alt="Himanshu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-->
