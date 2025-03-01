@@ -1,0 +1,19 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Runs daily at 1 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: your-github-username
+          theme: dark
