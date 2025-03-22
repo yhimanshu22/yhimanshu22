@@ -1,60 +1,212 @@
 
+      <svg
+        width="450"
+        height="195"
+        viewBox="0 0 450 195"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId">Himanshu Yadav's GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 95, Total Commits in 2025 : 645, Total PRs: 9, Total Issues: 26, Contributed to (last year): 5</desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #2f80ed;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-percentile-header {
+      font-size: 14px;
+    }
+    .rank-percentile-text {
+      font-size: 16px;
+    }
+    
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #4c71f2;
+      display: none;
+    }
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi I'm Himanshu Yadav</h1>
-
-<div align="center">
-  <a href="https://github.com/yhimanshu22/github-readme-stats">
-    <img src="https://img.shields.io/badge/GitHub-yhimanshu22-blue?style=flat-square&logo=github" alt="GitHub Badge">
-  </a>
-  <a href="https://twitter.com/yhimanshu22456">
-    <img src="https://img.shields.io/badge/Twitter-yhimanshu22456-blue?style=flat-square&logo=twitter" alt="Twitter Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/yhimanshu22">
-    <img src="https://img.shields.io/badge/LinkedIn-yhimanshu22-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.medium.com/@yhimanshu22">
-    <img src="https://img.shields.io/badge/Medium-yhimanshu22-blue?style=flat-square&logo=medium" alt="Medium Badge">
-  </a>
-</div>
-
-<div align="center">
+    .rank-circle-rim {
+      stroke: #2f80ed;
+      fill: none;
+      stroke-width: 6;
+      opacity: 0.2;
+    }
+    .rank-circle {
+      stroke: #2f80ed;
+      stroke-dasharray: 250;
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform-origin: -10px 8px;
+      transform: rotate(-90deg);
+      animation: rankAnimation 1s forwards ease-in-out;
+    }
+    
+    @keyframes rankAnimation {
+      from {
+        stroke-dashoffset: 251.32741228718345;
+      }
+      to {
+        stroke-dashoffset: 131.21166164789003;
+      }
+    }
   
-### Languages:
-
-| Python3 | JavaScript | TypeScript | Java |
-|---------|------------|------------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
   
-### Best frameworks and main libraries for Python3:
 
-| TensorFlow | Keras | Pytorch | Numpy | Pandas | Scikit-learn | Matplotlib | OpenCV |
-|------------|-------|---------|-------|--------|--------------|------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/> |
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
 
+        
 
-### My tools for Data Manipulation:
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="449"
+          fill="#fffefe"
+          stroke-opacity="1"
+        />
 
-| Kaggle | Jupyter | Conda |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> |
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Himanshu Yadav's GitHub Stats</text>
+    </g>
+      </g>
+    
 
-### Environments, Testing, Other:
-
-| Cloudflare | Firebase | Git | NodeJS | Docker | Postman |
-|------------|----------|-----|--------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> |
-
-</div>
-
----
-
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/yhimanshu22/count.svg?align=center)
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22"><img title="Daily Contribution Frequency of Last 31 Days" alt="Himanshu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yhimanshu22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <g data-testid="rank-circle"
+          transform="translate(365, 47.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+        <g class="rank-text">
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          B
+        </text>
+      
+        </g>
+      </g>
+    <svg x="0" y="0">
+      <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Total Stars Earned:</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="stars"
+      >95</text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Total Commits (2025):</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="commits"
+      >645</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Total PRs:</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="prs"
+      >9</text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Total Issues:</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="issues"
+      >26</text>
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+      
+      <text class="stat  bold"  y="12.5">Contributed to (last year):</text>
+      <text
+        class="stat  bold"
+        x="199.01"
+        y="12.5"
+        data-testid="contribs"
+      >5</text>
+    </g>
+  </g>
+    </svg>
+  
+        </g>
+      </svg>
+    
