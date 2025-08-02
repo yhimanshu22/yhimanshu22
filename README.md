@@ -8,7 +8,7 @@
   <a href="https://twitter.com/yhimanshu22456">
     <img src="https://img.shields.io/badge/Twitter-yhimanshu22456-blue?style=flat-square&logo=twitter" alt="Twitter Badge">
   </a>
-  <a href="https://www.linkedin.com/in/yhimanshu22">
+  <a href="https://www.linkedin.com/in/yhimanshu22045">
     <img src="https://img.shields.io/badge/LinkedIn-yhimanshu22-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="https://www.medium.com/@yhimanshu22">
