@@ -14,22 +14,6 @@
   <a href="https://www.medium.com/@yhimanshu22">
     <img src="https://img.shields.io/badge/Medium-yhimanshu22-blue?style=flat-square&logo=medium" alt="Medium Badge">
   </a>
-  <table width="100%">
-<tr>
-<td align="center">
-<h3 align="center">
-<a href="https://committers.top/india_private" target="_blank">Top GitHub Committers in India</a>
-</h3>
-<p align="center">
-Ranked among the top developers in India based on private contributions to GitHub, reflecting a high level of consistent and impactful development activity.
-<br><br>
-<a href="https://committers.top/india_private/yhimanshu22" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View-Ranking-green%3Fstyle%3Dfor-the-badge%26logo%3Dtrophy">
-</a>
-</p>
-</td>
-</tr>
-</table>
 </div>
 
 ---
