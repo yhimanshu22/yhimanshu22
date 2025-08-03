@@ -85,6 +85,33 @@ Here are some of the projects I'm proud of.
       </p>
     </td>
   </tr>
+<tr>
+    <td width="25%" valign="top">
+        <h3 align="center">
+            <a href="https://github.com/yhimanshu22/ScreenShotExtension" target="_blank">Screenshot Extension</a>
+        </h3>
+        <p align="center">
+            A secure, modern Chrome extension to capture a selected area of a webpage and instantly copy it to the clipboard.
+            <br><br>
+            <a href="https://github.com/yhimanshu22/ScreenShotExtension" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
+            </a>
+        </p>
+    </td>
+    <td width="25%" valign="top">
+        <h3 align="center">
+            <a href="https://github.com/yhimanshu22/ScreenRecorderExtension" target="_blank">Screen Recorder Extension</a>
+        </h3>
+        <p align="center">
+            A browser extension for recording the screen, perfect for creating tutorials, capturing gameplay, or sharing presentations.
+            <br><br>
+            <a href="https://github.com/yhimanshu22/ScreenRecorderExtension" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
+            </a>
+        </p>
+    </td>
+</tr>
+
   </table>
 
 ---
