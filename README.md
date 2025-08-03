@@ -110,6 +110,18 @@ Here are some of the projects I'm proud of.
             </a>
         </p>
     </td>
+    <td width="25%" valign="top">
+       <h3 align="center">
+            <a href="https://github.com/yhimanshu22/AutoRefreshExtension" target="_blank">Auto Refresh Extension</a>
+        </h3>
+        <p align="center">
+            A simple extension that automatically reloads a webpage at a user-defined interval. Ideal for monitoring live updates.
+            <br><br>
+            <a href="https://github.com/yhimanshu22/AutoRefreshExtension" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
+            </a>
+        </p>
+    </td>
 </tr>
 
   </table>
