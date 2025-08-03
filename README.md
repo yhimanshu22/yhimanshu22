@@ -23,7 +23,7 @@
 <p align="center">
 Ranked among the top developers in India based on private contributions to GitHub, reflecting a high level of consistent and impactful development activity.
 <br><br>
-<a href="https://committers.top/india_private" target="_blank">
+<a href="https://committers.top/india_private/yhimanshu22" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View-Ranking-green%3Fstyle%3Dfor-the-badge%26logo%3Dtrophy">
 </a>
 </p>
