@@ -167,10 +167,3 @@ Here are some of the projects I'm proud of.
 </div>
 
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yhimanshu22&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Himanshu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhimanshu22&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Himanshu's Top Languages" />
-</p>
