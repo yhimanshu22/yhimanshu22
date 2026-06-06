@@ -1,169 +1,23 @@
-<h1 align="center">Hi there, I'm Himanshu Yadav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1>
-<h3 align="center">A passionate developer from India specializing in Data Science, Machine Learning, and Web Development.</h3>
+# Hi there, I'm Himanshu Yadav
 
-<div align="center">
-  <a href="https://github.com/yhimanshu22/github-readme-stats">
-    <img src="https://img.shields.io/badge/GitHub-yhimanshu22-blue?style=flat-square&logo=github" alt="GitHub Badge">
-  </a>
-  <a href="https://twitter.com/yhimanshu22456">
-    <img src="https://img.shields.io/badge/Twitter-yhimanshu22456-blue?style=flat-square&logo=twitter" alt="Twitter Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/yhimanshu22045">
-    <img src="https://img.shields.io/badge/LinkedIn-yhimanshu22-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.medium.com/@yhimanshu22">
-    <img src="https://img.shields.io/badge/Medium-yhimanshu22-blue?style=flat-square&logo=medium" alt="Medium Badge">
-  </a>
-</div>
+### A passionate developer from India specializing in Data Science, Machine Learning, and Web Development.
+
+
 
 ---
 
 ## 🚀 My Projects
 
-Here are some of the projects I'm proud of.
+Here are some of the projects I'm proud of — all live demos are deployed on [Vercel](https://vercel.com/yhimanshu220456).
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/yhimanshu22/Blood-Bank" target="_blank">Blood Bank App</a>
-      </h3>
-      <p align="center">
-        A platform to connect blood donors and recipients.
-        <br><br>
-        <a href="https://github.com/yhimanshu22/Blood-Bank" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://blood-bank-henna.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/yhimanshu22/feedback_taker" target="_blank">Feedback Taker</a>
-      </h3>
-      <p align="center">
-        A web app for creating surveys and collecting feedback.
-        <br><br>
-        <a href="https://github.com/yhimanshu22/feedback_taker" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://feedback-taker.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/yhimanshu22/hospital-opd" target="_blank">Hospital OPD</a>
-      </h3>
-      <p align="center">
-       This is a web application for managing OPD activities in a hospital.
-        <br><br>
-        <a href="https://github.com/yhimanshu22/hospital-opd" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://hospital-opd.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/yhimanshu22/justwrite" target="_blank">JustWrite</a>
-      </h3>
-      <p align="center">
-        A distraction-free writing application with a clean UI.
-        <br><br>
-        <a href="https://github.com/yhimanshu22/justwrite" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://justwrite-f8o6qtdyw-yhimanshu220456.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-    
-    
-  </tr>
-<tr> 
-    <td width="25%" valign="top">
-        <h3 align="center">
-            <a href="https://github.com/yhimanshu22/ScreenShotExtension" target="_blank">Screenshot Extension</a>
-        </h3>
-        <p align="center">
-            A secure, modern Chrome extension to capture a selected area of a webpage and instantly copy it to the clipboard.
-            <br><br>
-            <a href="https://github.com/yhimanshu22/ScreenShotExtension" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-            </a>
-        </p>
-    </td>
-    <td width="25%" valign="top">
-        <h3 align="center">
-            <a href="https://github.com/yhimanshu22/ScreenRecorderExtension" target="_blank">Screen Recorder Extension</a>
-        </h3>
-        <p align="center">
-            A browser extension for recording the screen, perfect for creating tutorials, capturing gameplay, or sharing presentations.
-            <br><br>
-            <a href="https://github.com/yhimanshu22/ScreenRecorderExtension" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-            </a>
-        </p>
-    </td>
-    <td width="25%" valign="top">
-       <h3 align="center">
-            <a href="https://github.com/yhimanshu22/AutoRefreshExtension" target="_blank">Auto Refresh Extension</a>
-        </h3>
-        <p align="center">
-            A simple extension that automatically reloads a webpage at a user-defined interval. Ideal for monitoring live updates.
-            <br><br>
-            <a href="https://github.com/yhimanshu22/AutoRefreshExtension" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-            </a>
-        </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/yhimanshu22/justwrite" target="_blank">FarmFresh</a>
-      </h3>
-      <p align="center">
-       My startup focusing on direct farm to cunsumer product delivery eleminating the dalals.
-        <br><br>
-        <a href="https://github.com/yhimanshu22/farmfresh" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://farmfresh-iota.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-</tr>
 
-  </table>
+|                                                                                                                                                                            |                                                                                                                                                                                      |                                                                                                                                                                               |                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [MedAssist](https://github.com/yhimanshu22/med_assistant_rag)AI-powered medical assistant with RAG for intelligent health queries.                                        | [LinkedIn Auto Applier](https://github.com/yhimanshu22/Auto_job_applier_linkedIn)Automate your job hunt by applying to LinkedIn jobs with one click.                                | [Stock Screener Agent](https://github.com/yhimanshu22/stock_screener_agent)AI agent that screens and analyzes stocks to help you find opportunities.                         | [Blood Bank App](https://github.com/yhimanshu22/Blood-Bank)A platform to connect blood donors and recipients.                |
+| [Feedback Taker](https://github.com/yhimanshu22/feedback_taker)A web app for creating surveys and collecting feedback.                                                    | [Hospital OPD](https://github.com/yhimanshu22/hospital-opd)A web application for managing OPD activities in a hospital.                                                             | [JustWrite](https://github.com/yhimanshu22/justwrite)A distraction-free writing application with a clean UI.                                                                 | [FarmFresh](https://github.com/yhimanshu22/farmfresh)Direct farm-to-consumer delivery startup eliminating middlemen.         |
+| [Portfolio](https://github.com/yhimanshu22/portfolio)My personal portfolio showcasing projects, skills, and experience.                                                   | [Smart Bookmark App](https://github.com/yhimanshu22/smart_bookmark_app)Organize and manage bookmarks with smart categorization and search.                                          | [Blog](https://github.com/yhimanshu22/my_blog)An automated blog generation site powered by AI.                                                                               | [Make Resume](https://github.com/yhimanshu22/ResumeMaker)Generate a beautiful resume from your GitHub profile automatically. |
+| [Screenshot Extension](https://github.com/yhimanshu22/ScreenShotExtension)A secure Chrome extension to capture a selected area of a webpage and copy it to the clipboard. | [Screen Recorder Extension](https://github.com/yhimanshu22/ScreenRecorderExtension)A browser extension for recording the screen — great for tutorials, gameplay, and presentations. | [Auto Refresh Extension](https://github.com/yhimanshu22/AutoRefreshExtension)Automatically reloads a webpage at a user-defined interval — ideal for monitoring live updates. |                                                                                                                               |
+
 
 ---
 
-## 🛠️ My Tech Stack
-
-<div align="center">
-
-### Languages
-| Python | JavaScript | TypeScript | Java |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
-
-### Data Science & Machine Learning
-| TensorFlow | Keras | PyTorch | NumPy | Pandas | Scikit-learn | Matplotlib | OpenCV |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/> |
-
-### Tools, Platforms & Frameworks
-| Git | Docker | NodeJS | Postman | Firebase | Cloudflare | Kaggle | Jupyter |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> |
-
-</div>
-
----
