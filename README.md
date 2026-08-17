@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India specializing in Data Science, Machine Learning, and Web Development.</h3>
 
 <div align="center">
-  <a href="https://github.com/yhimanshu22/github-readme-stats">
+  <a href="https://github.com/yhimanshu22">
     <img src="https://img.shields.io/badge/GitHub-yhimanshu22-blue?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
   <a href="https://twitter.com/yhimanshu22456">
