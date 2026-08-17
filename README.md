@@ -19,9 +19,6 @@
 ---
 
 ## My Projects
-
-Here are some of the projects I'm proud of. All live demos are deployed on <a href="https://vercel.com/yhimanshu220456">Vercel</a>.
-
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
